@@ -18,8 +18,7 @@ dependencies:
   path_provider: ^2.0.5
   photo_view: ^0.13.0
   rxdart: ^0.27.1
-  stream_feed_flutter_core:
-    path: ../stream_feed_flutter_core
+  stream_feed_flutter_core: ^0.4.0
   timeago: ^3.0.2
   url_launcher: ^6.0.6
   video_thumbnail: ^0.4.3
